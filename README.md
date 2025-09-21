@@ -111,7 +111,7 @@ src/
 1. **Clonar el repositorio:**
 ```bash
 git clone https://github.com/aldobal/civa-front.git
-cd civa-fronted
+cd civa-front
 ```
 
 2. **Instalar dependencias:**
